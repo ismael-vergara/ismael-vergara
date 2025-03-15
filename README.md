@@ -1,19 +1,9 @@
 <h1 align="center">Hey 👋, I'm Ismael!</h1>
 
-<p align="center">
-  🎓 Computer Science & Mathematics student at the University of Granada  
-  💡 Passionate about AI, Algorithms, and Open Source  
-  🚀 Always learning and solving complex problems  
-</p>
-
----
-
 ## 🌟 About Me  
-- 🔭 Currently studying **Computer Science & Mathematics** at **UGR**  
+- 🔭 Currently studying **Computer Science & Mathematics** at **University of Granada**  
 - 🤖 Interested in **AI, Algorithms, and Software Optimization**  
-- 💻 Passionate about **Open Source** and contributing to **Tech Communities**  
-- 📬 Reach me at: [LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-handle)  
-
+- 💻 Passionate about **Open Source** and contributing to **Tech Communities**
 ---
 
 ## 🚀 I Code With  
