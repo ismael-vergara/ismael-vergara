@@ -1,47 +1,55 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋, I'm Ismael!</h1>
 
-###
+<p align="center">
+  <strong>Computer Science & Mathematics Student | AI & Algorithms Enthusiast</strong>
+</p>
 
-<p align="left">My name is Ismael and I'm a student of Cumputer Science and Mathematics from Almería, Spain.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-## 🌟 About Me  
-- 🔭 Currently studying **Computer Science & Mathematics** at **University of Granada**  
-- 🤖 Interested in **AI, Algorithms, and Software Optimization**  
-- 💻 Passionate about **Open Source** and contributing to **Tech Communities**
 ---
 
-<h2 align="left">I code with</h2>
+## 🚀 About Me  
+- 🎓 Studying **Computer Science & Mathematics** at **University of Granada**  
+- 🤖 Passionate about **AI, Algorithms, and Software Optimization**  
+- 💻 Enthusiastic about **Open Source** and contributing to **Tech Communities**  
+- 🌱 Currently improving my skills in **Java & Ruby**  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+## 🛠️ Technologies I Work With  
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="50" alt="LaTeX"/>
 </div>
 
-###
+---
 
-<h2 align="left">Currently improving in</h2>
+## 📌 Currently Improving  
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50" alt="Ruby"/>
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/ismael-vergara/output/snake.svg" alt="Snake animation" />
+## 📊 GitHub Stats  
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsmaelVergaraGarcia&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmaelVergaraGarcia&theme=tokyonight" height="150" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/IsmaelVergaraGarcia"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tuperfil"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
