@@ -42,7 +42,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ismael-vergara&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=ismael-vergara&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
 </div>
 
 ---
