@@ -49,7 +49,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ismael-vergara&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-vergara&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
-  <img src="https://raw.githubusercontent.com/ismael-vergara/ismael-vergara/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ## 📫 Connect With Me  
