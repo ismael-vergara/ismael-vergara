@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋 I'm Ismael Vergara</h1>  
+<h1 align="center">Hello there! 👋 I'm Ismael</h1>  
 
 <p align="center">
   <strong>Computer Science & Mathematics Student</strong>
