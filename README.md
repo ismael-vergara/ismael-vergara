@@ -49,7 +49,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ismael-vergara&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismael-vergara&theme=radical" alt="GitHub Streak"/>
-  ![ismael-vergara's Stats](https://github-readme-stats.vercel.app/api?username=ismael-vergara&theme=dark&show_icons=true&hide_border=false&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=ismael-vergara&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
 </p>
 
 ## 📫 Connect With Me  
