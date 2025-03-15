@@ -44,8 +44,10 @@
   <a href="https://linkedin.com/in/ismael-vergara-garcia"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-###
-
-<img src="https://raw.githubusercontent.com/ismael-vergara/ismael-vergara/output/snake.svg" alt="Snake animation" />
-
-###
+name: generate github-contribution-grid-snake.svg
+      uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
