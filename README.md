@@ -8,9 +8,10 @@
 
 ## 🚀 About Me  
 - 🎓 Studying **Computer Science & Mathematics** at **University of Granada**  
-- 🤖 Passionate about **AI, Algorithms, and Software Optimization**  
-- 💻 Enthusiastic about **Open Source** and contributing to **Tech Communities**  
-- 🌱 Currently improving my skills in programming
+- 🤖 Passionate about **Artificial Intelligence, Algorithms, and Software Optimization**  
+- 💡 Constantly exploring new technologies and improving my programming skills  
+- 🏆 Interested in **Competitive Programming & Maths Problem Solving**  
+- 🌱 Currently improving in **Advanced Programming** 
 
 ---
 
@@ -41,7 +42,8 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismael-vergara&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ismael-vergara&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=ismael-vergara&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -49,5 +51,6 @@
 ## 📫 Connect With Me  
 
 <p align="center">
+  <a href="mailto:ismaelverg2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ismael-vergara-garcia"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
