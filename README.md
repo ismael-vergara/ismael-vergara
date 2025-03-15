@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ismael!</h1>
 
 <p align="center">
-  <strong>Computer Science & Mathematics Student | AI & Algorithms Enthusiast</strong>
+  <strong>Computer Science & Mathematics Student</strong>
 </p>
 
 ---
