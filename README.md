@@ -37,20 +37,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50" alt="Ruby"/>
 </div>
 
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismael-vergara&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=ismael-vergara&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 📫 Connect With Me  
 
 <p align="center">
   <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ismael-vergara-garcia"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+###
+
+<img src="https://raw.githubusercontent.com/ismael-vergara/ismael-vergara/output/snake.svg" alt="Snake animation" />
+
+###
