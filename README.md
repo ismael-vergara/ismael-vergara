@@ -1,18 +1,15 @@
 <h1 align="center">Hello there! 👋 I'm Ismael</h1>  
 
 ---
-
 ## 🚀 About Me  
 - 🎓 Studying **Computer Science & Mathematics** at **University of Granada**  
 - 🤖 Passionate about **Artificial Intelligence, Algorithms, and Software Optimization**  
 - 💡 Constantly exploring new technologies and improving my programming skills  
 - 🏆 Interested in **Competitive Programming & Maths Problem Solving**  
 - 🌱 Currently improving in **Advanced Programming** 
-
 ---
 
 ## 🛠️ Technologies I Work With  
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++"/>
   <img width="12"/>
@@ -28,24 +25,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="50" alt="cmake logo"  />
-</div>
-
----
-
-## 📌 Currently Improving  
-
-<div align="center">
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
-  <img width="10"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50" alt="Ruby"/>
 </div>
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismael-vergara&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-vergara&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
-</p>
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismael-vergara/ismael-vergara/output/github-contribution-grid-snake-dark.svg">
