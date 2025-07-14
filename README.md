@@ -1,9 +1,5 @@
 <h1 align="center">Hello there! 👋 I'm Ismael</h1>  
 
-<p align="center">
-  <strong>Computer Engineering & Mathematics Student at University of Granada</strong>
-</p>
-
 ---
 
 ## 🚀 About Me  
